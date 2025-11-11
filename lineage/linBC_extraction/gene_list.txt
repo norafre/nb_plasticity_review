@@ -1,0 +1,7 @@
+GN:Z:actb1
+GN:Z:rpl39
+GN:Z:rpl18a
+GN:Z:cfl1
+GN:Z:actb2
+GN:Z:cirbpb
+GN:Z:dsRedRecCas

@@ -1,0 +1,7 @@
+Reads: 500000
+Mapped to dsRedExpOpt_linRecorder: 447189 (89.4378 %)
+Mapped to dsRedExpOpt_linRecorder with correct barcode and no N in UMI: 138392 (27.6784 %)
+Mapped to dsRedExpOpt_linRecorder with right length: 138392 (27.6784 %)
+Mapped to dsRedExpOpt_linRecorder with right length and primer: 135185 (27.037 %)
+Reads over thresholds (at least 1 reads per UMI): 135185 (27.037 %)
+Reads discarded (less than 1 reads per UMI): 0 (0 %)
